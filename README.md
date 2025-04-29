@@ -31,7 +31,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 npm run dev
 ```
 
-5. Open [https://blackboxai-1745902757284-kevy.vercel.app](http://localhost:3000) to view the app.
+5. Open [liathasildisini](https://blackboxai-1745902757284-kevy.vercel.app/) to view the app.
 
 ## Deployment
 
